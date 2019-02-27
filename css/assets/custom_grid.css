@@ -1,0 +1,18 @@
+/* PUT FLUID GRID CODE HERE */
+
+aside.col.col-1-4 {
+    float: left;
+    width: 25%;
+}
+
+aside.col.col-1-4 {}
+
+section.col.col-3-4 {
+    float: right;
+    width: 75%;
+}
+
+.col {
+    padding: 0;
+    margin: 0;
+}
